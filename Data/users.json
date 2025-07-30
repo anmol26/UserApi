@@ -1,0 +1,48 @@
+[
+  {
+    "Id": 1,
+    "Name": "Vaibhav",
+    "Username": "vaibhav14",
+    "Email": "v.khandelwal14@gmail.com",
+    "Address": {
+      "Street": "52 A/2",
+      "Suite": "Jagannathpuri",
+      "City": "Mathura",
+      "Zipcode": "281004",
+      "Geo": {
+        "Lat": "23.65.76.34",
+        "Lng": "34.67.89.54"
+      }
+    },
+    "Phone": "6758902340",
+    "Website": "www.specialchem.com",
+    "Company": {
+      "Name": "Special Chem",
+      "CatchPhrase": "Never settle for less",
+      "Bs": "SC"
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "Anmol",
+    "Username": "anmol26",
+    "Email": "a.khandelwal26@gmail.com",
+    "Address": {
+      "Street": "52 A/2",
+      "Suite": "Jagannathpuri",
+      "City": "Mathura",
+      "Zipcode": "281004",
+      "Geo": {
+        "Lat": "23.65.76.34",
+        "Lng": "34.67.89.54"
+      }
+    },
+    "Phone": "7876002340",
+    "Website": "www.specialchem.com",
+    "Company": {
+      "Name": "Special Chem",
+      "CatchPhrase": "Never settle for less",
+      "Bs": "SC"
+    }
+  }
+]
